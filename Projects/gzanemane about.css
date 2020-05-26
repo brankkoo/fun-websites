@@ -1,0 +1,11 @@
+@charset "utf-8";
+html {
+    background-color: #323232;
+    font-family: Xanax;
+    text-align: center;
+    font-size: 34px;
+    color: #FFD1DC;
+}
+img { 
+   border:1px solid #021a40;
+}
